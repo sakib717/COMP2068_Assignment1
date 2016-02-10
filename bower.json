@@ -1,0 +1,24 @@
+{
+  "name": "comp2068_assignment1",
+  "description": "deployed assignment on azure",
+  "main": "",
+  "authors": [
+    "sakib717 <sakibsabbir7@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sakib717/COMP2068_Assignment1",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
