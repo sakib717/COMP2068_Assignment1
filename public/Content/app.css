@@ -1,1 +1,12 @@
 /* custom css file */
+
+body{
+
+background-image: url('background.jpg');
+background-position: top;
+
+background-repeat: no-repeat;
+background-attachment: inherit;
+
+height: 1197px;
+}
