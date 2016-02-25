@@ -1,3 +1,3 @@
-# COMP2068_Assignment1
+# COMP2068_MidTerm
 
-Portofolio Assignment using Express-Generator 
+This Is A Mid Term By Sakib Patel 200307608
