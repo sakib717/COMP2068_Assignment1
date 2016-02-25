@@ -13,19 +13,10 @@ router.get('/people', function(req, res, next) {
 
 /* GET contact page. */
 router.get('/contact', function(req, res, next) {
-  res.render('contact', { title: 'Contact Me' });
-});
-
-/* GET projects page. */
-router.get('/projects', function(req, res, next) {
-  res.render('projects', { title: 'My Projects' });
+  res.render('contact', { title: 'CONTACT ME' });
 });
 
 
-/* GET services page. */
-router.get('/services', function(req, res, next) {
-  res.render('services', { title: 'My Services' });
-});
 
 
 module.exports = router;
