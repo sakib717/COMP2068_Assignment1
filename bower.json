@@ -1,12 +1,12 @@
 {
-  "name": "comp2068_assignment1",
+  "name": "comp2068-midterm",
   "description": "deployed assignment on azure",
   "main": "",
   "authors": [
     "sakib717 <sakibsabbir7@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/sakib717/COMP2068_Assignment1",
+  "homepage": "https://github.com/sakib717/COMP2068-MidTerm.git",
   "moduleType": [],
   "ignore": [
     "**/.*",

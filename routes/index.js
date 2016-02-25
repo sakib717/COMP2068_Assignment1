@@ -1,14 +1,14 @@
 var express = require('express');
 var router = express.Router();
 
-/* GET home page. */
+/* GET Landing page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'SAKIB PATEL' });
+  res.render('index', { title: 'MY FAVORITE PEOPLE' });
 });
 
 /* GET about page. */
-router.get('/about', function(req, res, next) {
-  res.render('about', { title: 'About Me' });
+router.get('/people', function(req, res, next) {
+  res.render('people', { title: 'FAVORITE PLAYERS' });
 });
 
 /* GET contact page. */
